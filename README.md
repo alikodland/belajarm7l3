@@ -26,4 +26,6 @@ pytest
 
 ## Pembuat
 
-Kodland
+Nadiah
+
+sayaa adalah mahasiswa jurusan informatika
